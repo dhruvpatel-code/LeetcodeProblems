@@ -1,0 +1,15 @@
+C:\Users\z004kjwp\source\repos\Poly\Poly\bin\Debug\net6.0\Poly.exe
+C:\Users\z004kjwp\source\repos\Poly\Poly\bin\Debug\net6.0\Poly.deps.json
+C:\Users\z004kjwp\source\repos\Poly\Poly\bin\Debug\net6.0\Poly.runtimeconfig.json
+C:\Users\z004kjwp\source\repos\Poly\Poly\bin\Debug\net6.0\Poly.dll
+C:\Users\z004kjwp\source\repos\Poly\Poly\bin\Debug\net6.0\Poly.pdb
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.csproj.AssemblyReference.cache
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.AssemblyInfoInputs.cache
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.AssemblyInfo.cs
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.csproj.CoreCompileInputs.cache
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.dll
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\refint\Poly.dll
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.pdb
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\Poly.genruntimeconfig.cache
+C:\Users\z004kjwp\source\repos\Poly\Poly\obj\Debug\net6.0\ref\Poly.dll
